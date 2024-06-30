@@ -1,0 +1,51 @@
+ID,Income,Credit History,Loan Amount,Repayment Behavior,Creditworthiness
+1,102764,Good,20924,On Time,Yes
+2,120614,Bad,16252,Late,No
+3,73850,Good,35691,On Time,No
+4,86512,Bad,,Late,
+5,42589,Good,39989,On Time,Yes
+6,92250,Bad,47244,Late,No
+7,133710,Good,26884,On Time,Yes
+8,,Bad,27403,Late,No
+9,142142,Good,16825,On Time,Yes
+10,62523,Bad,32799,Late,
+11,122157,Good,12160,On Time,Yes
+12,25252,Bad,19870,Late,No
+13,110365,Good,11102,On Time,Yes
+14,33550,Bad,22570,Late,No
+15,60213,,25826,On Time,Yes
+16,82611,Bad,15038,Late,No
+17,144574,Good,48516,On Time,Yes
+18,29470,Bad,24692,Late,No
+19,80426,Good,49448,On Time,Yes
+20,119003,Bad,33644,Late,No
+21,,Good,28217,,Yes
+22,52485,Bad,13477,Late,No
+23,65742,Good,16082,On Time,Yes
+24,105050,Bad,28436,Late,No
+25,78400,Good,40173,On Time,Yes
+26,,Bad,21357,Late,No
+27,61580,Good,10810,On Time,
+28,46932,Bad,,Late,No
+29,35069,Good,10629,On Time,Yes
+30,51253,Bad,42423,Late,No
+31,108469,,17766,On Time,Yes
+32,47491,Bad,13976,Late,No
+33,116228,Good,22160,On Time,Yes
+34,131209,Bad,30277,Late,No
+35,,Good,12743,On Time,Yes
+36,43463,Bad,39102,,No
+37,61819,Good,35863,On Time,Yes
+38,87759,Bad,22781,Late,
+39,33476,Good,48521,On Time,Yes
+40,110953,Bad,21626,Late,No
+41,,Good,45086,On Time,Yes
+42,61332,Bad,14793,Late,
+43,101491,Good,42412,,Yes
+44,121151,Bad,,Late,No
+45,145924,,24586,On Time,Yes
+46,125837,Bad,49938,Late,No
+47,30987,Good,18560,On Time,Yes
+48,,Bad,10869,,No
+49,47573,Good,25719,On Time,Yes
+50,144052,Bad,43970,Late,No
